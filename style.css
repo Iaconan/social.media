@@ -30,11 +30,12 @@
 
 }
 
+
+
 body {
     font-family: 'League Spartan', sans-serif;
     color: var(--color-dark) ;
     background: var(--color-light);
-    overflow: hidden;
 }
 
 /* General styles */
